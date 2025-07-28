@@ -21,5 +21,5 @@ Ejemplo:
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Ejemplo de estructura básica de una página web">
-<meta name="author" content="Tu Nombre">
+<meta name="author" content="Pablo Matías Monsalvo">
 
